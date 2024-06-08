@@ -4,6 +4,8 @@ This project intend to predict the severity of road accident by considering attr
 
 Dataset : https://www.kaggle.com/datasets/avikumart/road-traffic-severity-classification
 
-## Technologies used
+## Technologies used 
+### Python, Jupyter Notebook, Streamlit etc.
 
-### A website is deployed using an opensource application using StreamLit 
+## Setup
+
